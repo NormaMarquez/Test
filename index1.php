@@ -15,7 +15,7 @@
 		<FRAMESET ROWS=18%,* >
 			
 			 <FRAME name="superior" SRC="PanelSuperior.php" scrolling="no" noresize>
-				  <FRAMESET COLS=17%,80%,17%* border=0 >
+				  <FRAMESET COLS=20%,80%,20%* border=0 >
 					 <FRAME SRC="PanelIzquierdo.php" NAME="izquierdo" scrolling="no" noresize>
 					 <FRAME SRC="PanelCentral.php" NAME="central" scrolling="y" noresize>  
 					 <FRAME SRC="PanelDerecho.php" NAME="derecho" scrolling="no" noresize>  

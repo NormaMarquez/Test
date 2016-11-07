@@ -10,8 +10,8 @@
 		<center>
 			<marquee behavior="alternate"> <br />
 			<img height="90" width="1000" alt="" src="tashett Testing.PNG"/>
-						
-			 <frame me name="alto" src="index1.php">  
+
+ <frame me name="alto" src="index1.php">  
 			 </marquee> <br />
 		</center>
 			 

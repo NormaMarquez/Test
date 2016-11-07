@@ -30,7 +30,7 @@
 					<form name="formulario" method="post" action="verifica.php">
 					
 					
-					<h3 align="center" >Usuario:	<input type ="text" name="username" placeholder="username" />
+					<h3 align="center" >Nombre de  Usuario:	<input type ="text" name="username" placeholder="username" />
 										Contrase&ntilde;a:	<input type="password" name="password" placeholder="password" /><br>
 															<input type="submit" value="Acceder" name="Verificar" /><h3>
 					</form>
