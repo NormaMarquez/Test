@@ -1,0 +1,32 @@
+<html>
+<head>
+			<title>Formulario a  una base de datos</title>
+			<meta charset="UTF-8">
+			<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+
+<body bgcolor="grey" align="center">
+
+
+<ins><h3 style="color:black"  font-family="forte" align="center">REGISTRO DE  ANALISTAS</font></h3><hr></ins>
+<form action="insertardatobd.php" method="POST"  NAME="form">
+
+
+<a style="color:white">Nombres:<br></a>
+      <input type "text"  name="Nombre"/> <br/><br/>
+Apellidos:<br>	 
+	  <input type "text"  name="Apellido"/> <br/><br/>
+Codigo:<br>
+      <input type "number"  name="Codigo"/> <br/><br/>
+correo:<br>	 
+	  <input type "text"  name="correo"/> <br/><br/>
+
+	  <br><br>
+<input type="submit" value="Enviar datos"/>
+		
+		
+</form>
+<input type="button" onclick="location='PanelCentral.php'" value="Regresar al inicio" />
+</body>
+</html>
